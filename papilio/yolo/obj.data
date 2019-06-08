@@ -1,0 +1,5 @@
+classes= 16
+train  = /root/darknet/ymedia/papilio/yolo/train.txt
+valid  = /root/darknet/ymedia/papilio/yolo/test.txt
+names = /root/darknet/ymedia/papilio/yolo/obj.names
+backup = /root/darknet/ymedia/papilio/yolo/weights/
