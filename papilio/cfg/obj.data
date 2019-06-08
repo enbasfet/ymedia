@@ -1,5 +1,5 @@
 classes= 16
-train  = /root/papilio/cfg/train.txt
-valid  = /root/papilio/cfg/test.txt
-names = /root/papilio/cfg/obj.names
-backup = /root/papilio/cfg/weights/
+train  = /root/ymedia/papilio/cfg/train.txt
+valid  = /root/ymedia/papilio/cfg/test.txt
+names = /root/ymedia/papilio/cfg/obj.names
+backup = /root/ymedia/papilio/cfg/weights/
