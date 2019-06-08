@@ -1679,7 +1679,6 @@
 /root/papilio/yolo/DSCN5187-008.jpg
 /root/papilio/yolo/DSCN5187-009.jpg
 /root/papilio/yolo/DSCN5187-010.jpg
-/root/papilio/yolo/DSCN5187-011.jpg
 /root/papilio/yolo/DSCN5187-093.jpg
 /root/papilio/yolo/DSCN5187-094.jpg
 /root/papilio/yolo/DSCN5187-095.jpg
